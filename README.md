@@ -1,1 +1,1 @@
-A high-performance microservice framework based on userver implementation
+A high-performance microservice framework cplusplus implementation
